@@ -1,0 +1,14 @@
+.imgGato{
+    width: 50vw;
+    border: 2px solid black;
+}
+
+.botonGato{
+    border: 0;
+    background-color: #dd4d4d;
+}
+
+.botonGato:hover{
+    background-color: #892121;
+    color: white;
+}
